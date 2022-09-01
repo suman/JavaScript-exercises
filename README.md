@@ -1,1 +1,1 @@
-# JavaScrit-exercise
+# It contains various JavaScript exercises
